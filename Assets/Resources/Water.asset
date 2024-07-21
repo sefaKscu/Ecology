@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dee6f4e15c354d448294994609b5153, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  unitType: 0
+  unitPrefab: {fileID: 5715873571824481859, guid: cd24c96bb1bbd11489dfbe20308c5114, type: 3}
+  nutritionalValue: 10
+  canReproduce: 1
+  turnsBeforeReproducing: 2
+  parentCountRequired: 0
+  maxHungerAllowedToReproduce: 0
+  childCountMin: 0
+  childCountMax: 10
+  lifeTimeInTurns: 1
+  lifeTimeInTurnsMax: 3
+  chanceToEvade: 0
+  maxHungerBeforeDeath: 0
+  consumer: 0
+  preyType: []
+  huntingRange: 0
+  chanceToHuntSuccesfully: 0
+  hungerIncreasePerTick: 0
+  eatThreshold: 0

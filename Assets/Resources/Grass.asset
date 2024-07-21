@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dee6f4e15c354d448294994609b5153, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  unitType: 1
+  unitPrefab: {fileID: 5715873571824481859, guid: f65368e87049aff4ea72684a1634852d, type: 3}
+  nutritionalValue: 30
+  canReproduce: 1
+  turnsBeforeReproducing: 4
+  parentCountRequired: 2
+  maxHungerAllowedToReproduce: 40
+  childCountMin: 1
+  childCountMax: 4
+  lifeTimeInTurns: 12
+  lifeTimeInTurnsMax: 16
+  chanceToEvade: 0.302
+  maxHungerBeforeDeath: 36
+  consumer: 1
+  preyType:
+  - {fileID: 11400000, guid: 392e838858e12384c9f8b5d19606b343, type: 2}
+  huntingRange: 3
+  chanceToHuntSuccesfully: 1
+  hungerIncreasePerTick: 4
+  eatThreshold: 6
