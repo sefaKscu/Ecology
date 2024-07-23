@@ -3,7 +3,6 @@ A Simple Ecology Simulation
 This is a weekend project for practicing gameplay balance.
 Goal of this project is prevent extinction of unit types and maintain stability of the ecosystem over time by balancing the needs, tresholds and reproduction frequency of each unit.
 
-
 Architecture
 
 ![Ekran görüntüsü 2024-07-23 151206](https://github.com/user-attachments/assets/3177bc7c-48ee-41a0-b8db-c68c3c4415e1)
