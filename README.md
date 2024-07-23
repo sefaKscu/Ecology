@@ -3,10 +3,10 @@ A simple ecology simulation
 This is a weekend project for practicing design patterns.
 
 Triangles represents units in the simulation.
-Water - Blue
-Grass - Green
-Rabbit - Cyan
-Wolf - Red
+Water - Blue,
+Grass - Green,
+Rabbit - Cyan,
+Wolf - Red,
 
 I used Scriptable Objects for unit profiles to be easily expandable in the editor without coding.
 
