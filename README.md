@@ -1,6 +1,6 @@
 A simple ecology simulation
 
-This is a weekend project for practicing design patterns.
+This is a weekend project for practicing gameplay balance.
 
 Triangles represents units in the simulation.
 Water - Blue,
