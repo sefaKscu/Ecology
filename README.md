@@ -9,7 +9,7 @@ Architecture
 
 
 
-Hunting logic for the eating units
+Hunting logic and equations for the eating units
 ![Ekran görüntüsü 2024-07-23 153112](https://github.com/user-attachments/assets/bcec249c-bd04-4e97-835a-d0bcd1fd1769)
 
 
