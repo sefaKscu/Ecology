@@ -8,6 +8,6 @@ Grass - Green,
 Rabbit - Cyan,
 Wolf - Red,
 
-I used Scriptable Objects for unit profiles to be easily expandable in the editor without coding.
+![Ekran görüntüsü 2024-07-23 151206](https://github.com/user-attachments/assets/3177bc7c-48ee-41a0-b8db-c68c3c4415e1)
 
 ![Ekran görüntüsü 2024-07-20 145403](https://github.com/user-attachments/assets/bf2f20ed-47bb-4ffe-af52-2626e34b8b8b)
