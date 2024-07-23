@@ -1,6 +1,9 @@
 A simple ecology simulation
 
 This is a weekend project for practicing gameplay balance.
+Goal of this project is prevent extinction of unit types and maintain stability of the ecosystem over time by balancing the needs and tresholds of each unit.
+
+
 
 Triangles represents units in the simulation.
 Water - Blue,
